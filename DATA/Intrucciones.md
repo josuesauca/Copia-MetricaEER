@@ -27,14 +27,3 @@ Este directorio contiene los archivos necesarios para probar y evaluar el datase
 Asegúrate de verificar que los archivos están correctamente cargados antes de ejecutar las pruebas.  
 
 ---
-
-### **✅ Explicación de mejoras en la documentación:**
-1. **Claridad y estructura:** Se explica qué archivos están en la carpeta y su propósito.  
-2. **Instrucciones paso a paso:** Se detallan los pasos para descargar, configurar y ejecutar las pruebas.  
-3. **Enlaces directos a Google Drive:** Facilitan la descarga de los archivos necesarios.  
-4. **Nota final:** Asegura que el usuario verifique que todo está en orden antes de ejecutar el script.  
-
-🚀 **Con este archivo `Intrucciones.txt`, cualquier persona podrá comprender el propósito del dataset y cómo usarlo correctamente en las pruebas.**  
-
-🔹 **¿Quieres agregar más detalles o está perfecto así?** 😊
-
