@@ -9,5 +9,9 @@ El siguiente codigo es una copia del repositorio, adaptado a un dataset propio ,
    ```python
    from google.colab import drive
    drive.mount('/content/drive')
+
+   #Archivo que contiene las configuraciones necesarias
+   # Respositorio que contiene los archivos !git clone https://github.com/josuesauca/Copia-MetricaEER
+   !unzip ./drive/MyDrive/archivo123.zip
    
 
